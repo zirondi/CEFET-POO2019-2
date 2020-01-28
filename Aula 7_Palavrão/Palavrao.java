@@ -3,12 +3,10 @@ import java.util.*;
 public class Palavrao {
 	private static List getPalavroes() {
 		ArrayList ListaPalavroes = new ArrayList();
-		ListaPalavroes.add("porra");
+		ListaPalavroes.add("caramba");
 		ListaPalavroes.add("edson");
-		ListaPalavroes.add("cu");
-		ListaPalavroes.add("fuder");
-		ListaPalavroes.add("fude");
-		ListaPalavroes.add("merda");
+		ListaPalavroes.add("carambolas");
+		ListaPalavroes.add("caraca");
 		return ListaPalavroes;	
 	}
 	
